@@ -4,7 +4,7 @@ _An attempt to keep up with the latest LK-99 developments_
 
 ## First independent measurement of zero resistance in LK-99 at 110 K
 
-📅 August 02, 2023
+📅 2 August, 2023
 
 #experiment #conductivity 
 
