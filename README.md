@@ -1,6 +1,8 @@
-# LK-99 liveblog
+# LK-99 'liveblog'
 
 _An attempt to keep up with the latest LK-99 developments_
+
+> Pull requests are welcome
 
 ## First independent measurement of zero resistance in LK-99 at 110 K
 
