@@ -29,6 +29,7 @@ _An attempt to keep up with the latest LK-99 developments_
 
 - [📺 Original video in chinese](https://www.bilibili.com/video/BV14p4y1V7kS/?share_source=copy_web)
 - [📺 Video with english subtitles](https://targum.video/v/2023/8/1/e2ad3b8e86961ccfdcf411d2d4d18d3f/?l=en)
+- [📄 arXiV paper by Hao Wu, Li Yang, Bichen Xiao, Haixin Chang](https://arxiv.org/abs/2308.01516)
 
 ## Origin of correlated isolated flat bands in copper-substituted lead phosphate apatite
 
