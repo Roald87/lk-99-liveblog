@@ -4,6 +4,14 @@ _An attempt to keep up with the latest LK-99 developments_
 
 > Pull requests are welcome
 
+## Unconfirmed video of a floating flake at room temperature
+
+📅 5 August, 2023
+
+#experiment #meisner
+
+- [🧵 Twitter summary by Andrew Cote](https://twitter.com/Andercot/status/1687740396691185664?s=20)
+
 ## First independent measurement of zero resistance in LK-99 at 110 K
 
 #experiment #conductivity 
